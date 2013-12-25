@@ -1,0 +1,4 @@
+LIBRARY	"formengine"
+EXPORTS
+SKSEPlugin_Query
+SKSEPlugin_Load
